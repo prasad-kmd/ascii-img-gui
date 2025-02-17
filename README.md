@@ -38,6 +38,7 @@ Based on [TheZoraiz](https://github.com/TheZoraiz/ascii-image-converter)'s `asci
 |--------------------------|------------------------------------------|---------|
 | `ascii_img.exe`    | Main GUI application                     | *33.2 MB*  |
 
+**Initial release was deleted. Wait for new release. ;)**
 ---
 
 ## **🔧 Technical Details**  
